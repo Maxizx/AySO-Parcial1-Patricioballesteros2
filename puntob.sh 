@@ -1,0 +1,4 @@
+sudo fdisk /dev/sdc
+n
+p
++2.5G
