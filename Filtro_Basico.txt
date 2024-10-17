@@ -1,0 +1,2 @@
+MemTotal:        8119864 kB
+	Manufacturer: Microsoft Corporation
