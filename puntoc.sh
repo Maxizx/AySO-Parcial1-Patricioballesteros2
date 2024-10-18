@@ -24,6 +24,7 @@ sudo chmod -R 760 Examenes-UTN/alumnos_2
 sudo chmod -R 700 Examenes-UTN/alumnos_3
 sudo chmod -R 775 Examenes-UTN/profesores
 
+
 whoami > Examenes-UTN/alumnos_1/validad.txt
 whoami > Examenes-UTN/alumnos_2/validad.txt
 whoami > Examenes-UTN/alumnos_3/validad.txt
